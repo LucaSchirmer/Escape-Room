@@ -66,6 +66,19 @@ ol li:hover {
 }
 
 
+.Quiz-ipad{
+    width: 80%; 
+    height: 90%;
+    background-color: white;
+    position: absolute; 
+    z-index: 1000;
+    display: grid;
+    grid-template-areas: 
+    "a a b" 
+    "c c c"
+    ;
+}
+
 .Q-Headline{
     grid-area: a;
     text-align: center;
