@@ -1,0 +1,31 @@
+<svg width="1922" height="1081" viewBox="0 0 1922 1081" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 3">
+<rect id="Rectangle 1" x="0.99666" y="0.561523" width="1918.2" height="1080" fill="#C4C4C4"/>
+<g id="wall_back">
+<path id="Line 1" d="M675.361 381.561H1244.83" stroke="black"/>
+<line id="Line 2" x1="676.361" y1="701.062" x2="1244.81" y2="701.062" stroke="black"/>
+<line id="Line 3" x1="675.861" y1="701.562" x2="675.861" y2="381.562" stroke="black"/>
+<line id="Line 4" x1="1244.31" y1="701.562" x2="1244.31" y2="381.562" stroke="black"/>
+</g>
+<path id="Line 5" d="M1242 699.829L1919 1080.37" stroke="black"/>
+<path id="Line 6" d="M1244.2 381.868C1529.17 223.192 1634.04 159.7 1919 1.00001" stroke="black"/>
+<path id="Line 7" d="M676.357 381.996L1.50001 1.00193" stroke="black"/>
+<path id="Line 8" d="M675.433 700.215L1.22257 1080.17" stroke="black"/>
+<g id="bilder">
+<g id="bild ">
+<rect id="Rectangle 2" x="1515" y="249" width="294" height="520" fill="#C4C4C4"/>
+<path id="Line 12" d="M1514.57 676.562L1808.31 749" stroke="black"/>
+<path id="Line 9" d="M1517.07 323.063L1809.1 209.063" stroke="black"/>
+<line id="Line 10" x1="1808.8" y1="208.563" x2="1808.8" y2="750.563" stroke="black"/>
+<path id="Line 11" d="M1517.07 322.563L1515.07 677.063" stroke="black"/>
+</g>
+<g id="bild _2">
+<rect id="Rectangle 2_2" x="97" y="249" width="294" height="560" fill="#C4C4C4"/>
+<line id="Line 10_2" x1="97.205" y1="799.563" x2="97.205" y2="257.563" stroke="black"/>
+<path id="Line 11_2" d="M388.877 711.58L390.63 354.563" stroke="black"/>
+<path id="Line 13" d="M97.0612 258.088L390.63 355.063" stroke="black"/>
+<path id="Line 14" d="M96.7626 799.084L389.132 711.563" stroke="black"/>
+</g>
+</g>
+</g>
+</svg>

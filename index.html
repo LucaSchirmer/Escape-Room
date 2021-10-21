@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"> 
+    <title>Escape Room</title>
+</head>
+    <body>
+        <div class="inri-img" onclick="window.location.href='Lebenslauf.html'"> <img src="inri.png" alt="inri.png"></div>
+        <div class="lebes-img" onclick="window.location.href='DerJudeJesus.html'"> <img src="lebenslauf.png" alt="lebenslauf.png"></div>
+        <div id="p" class="parent">
+        <div class="Quiz">
+            <h1 class="Q-Headline"> Willst du in den Escape Room verlassen?</h1>
+            <br>
+            <h1 id="z" class="go-back"> zurück</h1>
+            <div class="form-div">
+                <div class="frage1">
+                    <h3> Wann ist Jesus geboren? </h3>
+                    
+                    <div class="display">                      
+                        <label for="frage1-1">Im Jahr 0</label>
+                        <input checked type="radio" name="frage1" id="1">
+                    </div>
+                    <div class="display">
+                        <label for="frage1-1">2000 nach Christus</label>
+                        <input type="radio" name="frage1" id="2">
+                    </div>  
+                    <div class="display">
+                        <label for="frage1-1">vier bis acht vor Christus</label>
+                        <input type="radio" name="frage1" id="bl1">
+                    </div>
+                    <div class="display">     
+                        <label for="frage1-1">30 nach Christus</label>
+                        <input type="radio" name="frage1" id="4">
+                    </div>
+                </div>
+                <br>
+                <br>
+                <div class="frage2">
+                    <h3> Welcher Religion gehörte Jesus an?</h3>
+                    <div class="display">
+                    <label for="frage2-2">Christentum</label>
+                    <input checked type="radio" name="frage2" id="6">
+                    </div>
+                    <div class="display">
+                        <label for="frage2-1">Judemtum</label>
+                        <input type="radio" name="frage2" id="bl2">   
+                    </div>
+                    <div class="display">                   
+                    <label for="frage2-3">Islam</label>
+                    <input type="radio" name="frage2" id="7">
+                    </div>
+                    <div class="display">
+                    <label for="frage2-4">Hinduismus</label>
+                    <input type="radio" name="frage2" id="8">
+                    </div>
+                </div>
+                <br>
+                <br>
+                
+                <div class="frage3">
+                    <h3> Wann ist Jesus gestorben?</h3>
+                    <div class="display">
+                        <label for="frage3-1">Im Jahr 0</label>
+                        <input checked type="radio" name="frage3" id="9">   
+                    </div>
+                    <div class="display">
+                    <label for="frage3-2">2000 nach Christus</label>
+                    <input type="radio" name="frage3" id="10">
+                    </div>
+                    <div class="display">                   
+                    <label for="frage3-3">um 30 nach Christus</label>
+                    <input type="radio" name="frage3" id="bl3">
+                    </div>
+                    <div class="display">
+                    <label for="frage3-4">Gestern</label>
+                    <input type="radio" name="frage3" id="12">
+                    </div>
+                </div>
+
+                <div>
+                    <input class="Quit-buttooon" onclick="checkInputs();" type="button" value="überprüfen">
+                </div>
+            </div>
+        </div>
+        </div>
+        <svg width="1922" height="1081" viewBox="0 0 1922 1081" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g id="Group 3">
+            <rect id="Rectangle 1" x="0.99666" y="0.561523" width="1918.2" height="1080" fill="#C4C4C4"/>
+            
+            <g id="door">
+                <rect x="883" y="432" width="156.446" height="270" fill="#493521"/>
+                <ellipse cx="1023.83" cy="573.942" rx="7.19008" ry="6.81818" fill="#FFF500"/>
+                <rect x="900.603" y="448.859" width="109.587" height="127.686" fill="#5B3E22"/>
+                <rect x="900.603" y="592.909" width="109.587" height="91.2397" fill="#5B3E22"/>
+            </g>
+            <g id="wall_back">
+                <path id="Line 1" d="M675.361 381.561H1244.83" stroke="black"/>
+                <line id="Line 2" x1="676.361" y1="701.062" x2="1244.81" y2="701.062" stroke="black"/>
+                <line id="Line 3" x1="675.861" y1="701.562" x2="675.861" y2="381.562" stroke="black"/>
+                <line id="Line 4" x1="1244.31" y1="701.562" x2="1244.31" y2="381.562" stroke="black"/>
+            </g>
+                <path id="Line 5" d="M1242 699.829L1919 1080.37" stroke="black"/>
+                <path id="Line 6" d="M1244.2 381.868C1529.17 223.192 1634.04 159.7 1919 1.00001" stroke="black"/>
+                <path id="Line 7" d="M676.357 381.996L1.50001 1.00193" stroke="black"/>
+                <path id="Line 8" d="M675.433 700.215L1.22257 1080.17" stroke="black"/>
+            <g id="bilder">
+            <g id="bild">
+                <rect onclick="window.location.href='Lebenslauf.html'" id="Rectangle 2" x="1515" y="249" width="294" height="520" fill="#C4C4C4"/>
+                <path id="Line 12" d="M1514.57 676.562L1808.31 749" stroke="black"/>
+                <path id="Line 9" d="M1517.07 323.063L1809.1 209.063" stroke="black"/>
+                <line id="Line 10" x1="1808.8" y1="208.563" x2="1808.8" y2="750.563" stroke="black"/>
+                <path id="Line 11" d="M1517.07 322.563L1515.07 677.063" stroke="black"/>
+            </g>
+            <g id="JESUS_lebenslauf">
+                <rect onclick="window.location.href='DerJudeJesus.html'" id="Rectangle 2_2" x="97" y="249" width="294" height="560" fill="#C4C4C4"/>
+                <line id="Line 10_2" x1="97.205" y1="799.563" x2="97.205" y2="257.563" stroke="black"/>
+                <path id="Line 11_2" d="M388.877 711.58L390.63 354.563" stroke="black"/>
+                <path id="Line 13" d="M97.0612 258.088L390.63 355.063" stroke="black"/>
+                <path id="Line 14" d="M96.7626 799.084L389.132 711.563" stroke="black"/>
+            </g>
+            </g>
+            </g>
+        </svg>
+        
+
+        </div>       
+    </body>
+    <script src="quiz.js">
+
+    </script>
+</html>

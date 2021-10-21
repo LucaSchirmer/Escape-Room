@@ -1,0 +1,37 @@
+<svg width="1081" height="811" viewBox="0 0 1081 811" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 3">
+<rect id="Rectangle 1" x="0.99666" y="0.561523" width="1078.76" height="810" fill="#C4C4C4"/>
+<g id="wall_back">
+<path id="Line 1" d="M380.247 286.311H700.504" stroke="black"/>
+<line id="Line 2" x1="380.809" y1="525.812" x2="700.495" y2="525.812" stroke="black"/>
+<line id="Line 3" x1="380.309" y1="526.312" x2="380.309" y2="286.312" stroke="black"/>
+<line id="Line 4" x1="699.995" y1="526.312" x2="699.995" y2="286.312" stroke="black"/>
+</g>
+<path id="Line 5" d="M698.914 525.012L1079.65 810.416" stroke="black"/>
+<path id="Line 6" d="M700.149 286.542C860.416 167.535 919.39 119.916 1079.65 0.890433" stroke="black"/>
+<path id="Line 7" d="M380.807 286.637L1.27976 0.891978" stroke="black"/>
+<path id="Line 8" d="M380.287 525.301L1.12372 810.27" stroke="black"/>
+<g id="bilder">
+<g id="bild ">
+<rect id="Rectangle 2" x="852.444" y="186.89" width="165.34" height="390" fill="#C4C4C4"/>
+<path id="Line 12" d="M852.205 507.562L1017.4 561.89" stroke="black"/>
+<path id="Line 9" d="M853.61 242.437L1017.84 156.937" stroke="black"/>
+<line id="Line 10" x1="1017.89" y1="156.562" x2="1017.89" y2="563.063" stroke="black"/>
+<path id="Line 11" d="M853.609 242.063L852.486 507.938" stroke="black"/>
+</g>
+<g id="bild _2">
+<rect id="Rectangle 2_2" x="54.9872" y="186.89" width="165.34" height="420" fill="#C4C4C4"/>
+<line id="Line 10_2" x1="54.8837" y1="599.812" x2="54.8837" y2="193.312" stroke="black"/>
+<path id="Line 11_2" d="M219.134 533.825L220.119 266.063" stroke="black"/>
+<path id="Line 13" d="M55.0216 193.706L220.119 266.438" stroke="black"/>
+<path id="Line 14" d="M54.8537 599.453L219.277 533.813" stroke="black"/>
+</g>
+</g>
+<g id="door">
+<rect id="Rectangle 3" x="497.019" y="324.14" width="87.9825" height="202.5" fill="#493521"/>
+<ellipse id="Ellipse 3" cx="576.217" cy="430.597" rx="4.04357" ry="5.11364" fill="#FFF500"/>
+<rect id="Rectangle 4" x="506.919" y="336.785" width="61.6296" height="95.7645" fill="#5B3E22"/>
+<rect id="Rectangle 5" x="506.919" y="444.822" width="61.6296" height="68.4297" fill="#5B3E22"/>
+</g>
+</g>
+</svg>
